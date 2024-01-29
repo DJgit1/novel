@@ -1,0 +1,31 @@
+The Object Model
+    2.1 The Evolution of the Object Model
+        The Generations of Programming Languages
+        The Topology of First- and Early Second-Generation Programming Languages
+        The Topology of Late Second- and Early Third-Generation Programming Languages
+        The Topology of Late Third-Generation Programming Languages
+        The Topology of Object-Based and Object-Oriented Programming Languages
+    2.2 Foundations of the Object Model
+        Object-Oriented Programming
+        Object-Oriented Design
+        Object-Oriented Analysis
+    2.3 Elements of the Object Model
+        The Meaning of Abstraction
+            Examples of Abstraction
+        The Meaning of Encapsulation
+            Examples of Encapsulation
+        The Meaning of Modularity
+            Examples of Modularity
+        The Meaning of Hierarchy
+            Examples of Hierarchy: Single Inheritance
+            Examples of Hierarchy: Multiple Inheritance
+            Examples of Hierarchy: Aggregation
+        The Meaning of Typing
+            Examples of Typing: Static and Dynamic Typing
+        The Meaning of Concurrency
+            Examples of Concurrency
+        The Meaning of Persistence
+    2.4 Applying the Object Model
+        Benefits of the Object Model
+        Open Issues
+    Summary

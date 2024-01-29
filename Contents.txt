@@ -3,6 +3,7 @@ Sidebars xi
 Preface xiii
 Acknowledgments xix
 About the Authors xxi
+
 Section I Concepts 1
 
 Chapter 1 Complexity 3

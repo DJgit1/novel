@@ -1,3 +1,40 @@
-Chapter 1
-- We meet Nick, Tom, Daisy and
-Jordan
+Chapter 1 - Complexity  
+Software is inherently complex; the complexity of software systems often exceeds the human intellectual capacity.
+
+The task of the software development team is to engineer the illusion of simplicity.
+
+Complexity often takes the form of a hierarchy; it is useful to model both the “is a” and the “part of” hierarchies of a complex system.
+
+Complex systems generally evolve from stable intermediate forms.
+
+There are fundamental limiting factors of human cognition; we can address these constraints through the use of decomposition, abstraction, and hierarchy.
+
+Complex systems can be viewed by focusing on either things or processes; there are compelling reasons for applying object-oriented decomposition,
+in which we view the world as a meaningful collection of objects that collaborate to achieve some higher-level behavior.
+
+Object-oriented analysis and design is the method that leads us to an objectoriented decomposition; object-oriented design uses a notation and process for constructing 
+complex software systems and offers a rich set of models with which we may reason about different aspects of the system under consideration.
+
+
+Chapter 2 - The Object Model
+The maturation of software engineering has led to the development of object-oriented analysis, design, and programming methods, all of which address the issues 
+of programming-in-the-large.
+
+There are several different programming paradigms: procedure-oriented, object-oriented, logic-oriented, rule-oriented, and constraint-oriented.
+
+An abstraction denotes the essential characteristics of an object that distinguish it from all other kinds of objects and thus provide crisply defined conceptual
+boundaries, relative to the perspective of the viewer.
+
+Encapsulation is the process of compartmentalizing the elements of an abstraction that constitute its structure and behavior; encapsulation serves to
+separate the contractual interface of an abstraction and its implementation.
+
+Modularity is the property of a system that has been decomposed into a set of cohesive and loosely coupled modules.
+
+Hierarchy is a ranking or ordering of abstractions.
+
+Typing is the enforcement of the class of an object, such that objects of different types may not be interchanged or, at the most, may be interchanged only in very restricted 
+ways.
+
+Concurrency is the property that distinguishes an active object from one that is not active.
+
+Persistence is the property of an object through which its existence transcends time and/or space.

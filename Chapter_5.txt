@@ -1,0 +1,98 @@
+Notation
+    5.1 The Unified Modeling Language
+        A Brief Historical Perspective
+        Models and Multiple Views
+        Diagram Taxonomy
+            Structure Diagrams
+            Behavior Diagrams
+        The Use of Diagrams in Practice
+        Conceptual, Logical, and Physical Models
+        The Role of Tools
+        The Products of Object-Oriented Development
+        Scaling Up and Scaling Down
+        The Syntax and Semantics of the UML
+        UML 2.0 Information Sources
+    5.2 Package Diagrams
+        Essentials: The Package Notation
+        Essentials: Visibility of Elements
+        Essentials: The Dependency Relationship
+        Essentials: Package Diagrams
+        Advanced Concepts: Import and Access
+    5.3 Component Diagrams
+        Essentials: The Component Notation
+        Essentials: The Component Diagram
+        Essentials: Component Interfaces
+        Essentials: Component Realizations
+        Advanced Concepts: A Component’s Internal Structure
+    5.4 Deployment Diagrams
+        Essentials: The Artifact Notation
+        Essentials: The Node Notation
+        Essentials: The Deployment Diagram
+    5.5 Use Case Diagrams
+        Essentials: Actors
+        Essentials: Use Cases
+        Essentials: The Use Case Diagram
+            Specifying Use Case Details
+        Advanced Concepts: «include» and «extend» Relationships
+            «include» Relationships
+            «extend» Relationships
+            The Dangers of «include» and «extend» Relationships
+        Advanced Concepts: Generalization
+    5.6 Activity Diagrams
+        Essentials: Actions
+        Essentials: Starting and Stopping
+        Essentials: Decision and Merge Nodes
+        Essentials: Partitions
+        Advanced Concepts: Forks, Joins, and Concurrency
+        Advanced Concepts: Object Flows
+        Advanced Concepts: Additional Elements
+    5.7 Class Diagrams
+        Essentials: The Class Notation
+        Essentials: Class Relationships
+        Advanced Concepts: Template (Parameterized) Classes
+        Advanced Concepts: Visibility
+        Advanced Concepts: Association End Names and Qualifiers
+        Advanced Concepts: Constraints
+        Advanced Concepts: Association Classes and Notes
+    5.8 Sequence Diagrams
+        Essentials: Objects and Interactions
+        Essentials: Lifelines and Messages
+        Advanced Concepts: Destruction Events
+        Advanced Concepts: Execution Specification
+        Advanced Concepts: Interaction Use
+        Advanced Concepts: Control Constructs
+    5.9 Interaction Overview Diagrams
+        Essentials: Frames
+        Essentials: Flow of Control Elements
+        Essentials: Interaction Diagram Elements
+    5.10 Composite Structure Diagrams
+        Essentials: Composite Structure Parts
+        Essentials: Composite Structure Ports and Interfaces
+        Essentials: Composite Structure Connectors
+        Advanced Concepts: Collaborations
+    5.11 State Machine Diagrams
+        Essentials: Initial, Final, and Simple States
+        Essentials: Transitions and Events
+        Advanced Concepts: State Activities—Entry, Do, and Exit Activities
+        Advanced Concepts: Controlling Transitions
+        Advanced Concepts: Composite States and Nested States
+        Advanced Concepts: Concurrency and Control
+        Advanced Concepts: Submachine State
+        Advanced Concepts: Additional State Machine Diagram Elements
+    5.12 Timing Diagrams
+        Essentials: More of the Same
+        Essentials: Layout
+        Essentials: Events
+        Essentials: Constraints
+        Advanced Concepts: Alternate Representations
+        Advanced Concepts: Events versus Messages
+    5.13 Object Diagrams
+        Essentials: Objects
+        Essentials: Object Relationships
+        Advanced Concepts: End Names and Qualifiers
+    5.14 Communication Diagrams
+        Essentials: Objects, Links, and Messages
+        Essentials: Sequence Expressions
+        Advanced Concepts: Messages and Synchronization
+        Advanced Concepts: Iteration Clauses and Guards
+    Summary

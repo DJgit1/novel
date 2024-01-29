@@ -1,4 +1,6 @@
+======================
 Chapter 1 - Complexity  
+======================
 Software is inherently complex; the complexity of software systems often exceeds the human intellectual capacity.
 
 The task of the software development team is to engineer the illusion of simplicity.
@@ -15,8 +17,9 @@ in which we view the world as a meaningful collection of objects that collaborat
 Object-oriented analysis and design is the method that leads us to an objectoriented decomposition; object-oriented design uses a notation and process for constructing 
 complex software systems and offers a rich set of models with which we may reason about different aspects of the system under consideration.
 
-
+======================
 Chapter 2 - The Object Model
+======================
 The maturation of software engineering has led to the development of object-oriented analysis, design, and programming methods, all of which address the issues 
 of programming-in-the-large.
 
@@ -39,9 +42,9 @@ Concurrency is the property that distinguishes an active object from one that is
 
 Persistence is the property of an object through which its existence transcends time and/or space.
 
-
+======================
 Chapter 3 - Classes and Objects
-
+======================
 An object has state, behavior, and identity.
 
 The structure and behavior of similar objects are defined in their common class.
@@ -62,9 +65,9 @@ A mechanism is a structure whereby a set of objects work together to provide a b
 
 The quality of an abstraction may be measured by its coupling, cohesion, sufficiency, completeness, and primitiveness.
 
-
+======================
 Chapter 4 - Classification
-
+======================
 The identification of classes and objects is a fundamental issue in objectoriented analysis and design; identification involves both discovery and invention.
 
 Classification is fundamentally a problem of clustering.
@@ -80,8 +83,9 @@ Key abstractions reflect the vocabulary of the problem domain and may either be 
 
 Mechanisms denote strategic design decisions regarding the collaborative activity of many different kinds of objects.
 
-
+======================
 Chapter 5 - Notation
+======================
 Designing is not the act of drawing a diagram; a diagram simply captures a design.
 
 In the design of a complex system, it is important to view the design from multiple perspectives: namely, its conceptual, logical, and physical models

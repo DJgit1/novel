@@ -1,4 +1,6 @@
+======================
 Classification
+======================
     4.1 The Importance of Proper Classification
         The Difficulty of Classification
         The Incremental and Iterative Nature of Classification

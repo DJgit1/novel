@@ -4,6 +4,7 @@ Preface xiii
 Acknowledgments xix
 About the Authors xxi
 Section I Concepts 1
+
 Chapter 1 Complexity 3
 1.1 The Structure of Complex Systems 4
 1.2 The Inherent Complexity of Software 7
@@ -11,11 +12,13 @@ Chapter 1 Complexity 3
 1.4 Organized and Disorganized Complexity 14
 1.5 Bringing Order to Chaos 18
 1.6 On Designing Complex Systems 24
+
 Chapter 2 The Object Model 29
 2.1 The Evolution of the Object Model 29
 2.2 Foundations of the Object Model 37
 2.3 Elements of the Object Model 43
 2.4 Applying the Object Model 71
+
 Chapter 3 Classes and Objects 75
 3.1 The Nature of an Object 75
 3.2 Relationships among Objects 88
@@ -23,11 +26,13 @@ Chapter 3 Classes and Objects 75
 3.4 Relationships among Classes 96
 3.5 The Interplay of Classes and Objects 111
 3.6 On Building Quality Classes and Objects 112
+
 Chapter 4 Classification 121
 4.1 The Importance of Proper Classification 121
 4.2 Identifying Classes and Objects 126
 4.3 Key Abstractions and Mechanisms 138
 Section II Method 145
+
 Chapter 5 Notation 147
 5.1 The Unified Modeling Language 147
 5.2 Package Diagrams 155
@@ -43,10 +48,12 @@ Chapter 5 Notation 147
 5.12 Timing Diagrams 231
 5.13 Object Diagrams 235
 5.14 Communication Diagrams 238
+
 Chapter 6 Process 247
 6.1 First Principles 248
 6.2 The Macro Process: The Software Development Lifecycle 256
 6.3 The Micro Process: The Analysis and Design Process 272
+
 Chapter 7 Pragmatics 303
 7.1 Management and Planning 304
 7.2 Staffing 308
@@ -58,36 +65,42 @@ Chapter 7 Pragmatics 303
 7.8 Special Topics 324
 7.9 The Benefits and Risks of Object-Oriented Development 326
 Section III Applications 331
+
 Chapter 8 System Architecture: Satellite-Based
 Navigation 333
 8.1 Inception 334
 8.2 Elaboration 347
 8.3 Construction 370
 8.4 Post-Transition 371
+
 Chapter 9 Control System: Traffic
 Management 375
 9.1 Inception 376
 9.2 Elaboration 385
 9.3 Construction 396
 9.4 Post-Transition 411
+
 Chapter 10 Artificial Intelligence:
 Cryptanalysis 413
 10.1 Inception 414
 10.2 Elaboration 421
 10.3 Construction 427
 10.4 Post-Transition 446
+
 Chapter 11 Data Acquisition: Weather Monitoring
 Station 449
 11.1 Inception 450
 11.2 Elaboration 463
 11.3 Construction 474
 11.4 Post-Transition 487
+
 Chapter 12 Web Application: Vacation Tracking
 System 489
 12.1 Inception 490
 12.2 Elaboration 494
 12.3 Construction 506
 12.4 Transition and Post-Transition 534
+
 Appendix A Object-Oriented Programming Languages 537
 A.1 Language Evolution 537
 A.2 Smalltalk 541

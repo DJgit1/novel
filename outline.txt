@@ -38,3 +38,26 @@ ways.
 Concurrency is the property that distinguishes an active object from one that is not active.
 
 Persistence is the property of an object through which its existence transcends time and/or space.
+
+
+Chapter 3 - Classes and Objects
+
+An object has state, behavior, and identity.
+
+The structure and behavior of similar objects are defined in their common class.
+
+The state of an object encompasses all of the (usually static) properties of the object plus the current (usually dynamic) values of each of these properties.
+
+Behavior is how an object acts and reacts in terms of its state changes and message passing.
+
+Identity is the property of an object that distinguishes it from all other objects.
+
+A class is a set of objects that share a common structure and a common behavior.
+
+The three kinds of relationships include association, inheritance, and aggregation.
+
+Key abstractions are the classes and objects that form the vocabulary of the problem domain.
+
+A mechanism is a structure whereby a set of objects work together to provide a behavior that satisfies some requirement of the problem.
+
+The quality of an abstraction may be measured by its coupling, cohesion, sufficiency, completeness, and primitiveness.

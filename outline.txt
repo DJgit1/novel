@@ -61,3 +61,21 @@ Key abstractions are the classes and objects that form the vocabulary of the pro
 A mechanism is a structure whereby a set of objects work together to provide a behavior that satisfies some requirement of the problem.
 
 The quality of an abstraction may be measured by its coupling, cohesion, sufficiency, completeness, and primitiveness.
+
+
+Chapter 4 - Classification
+
+The identification of classes and objects is a fundamental issue in objectoriented analysis and design; identification involves both discovery and invention.
+
+Classification is fundamentally a problem of clustering.
+
+Classification is an incremental and iterative process, made difficult because a given set of objects may be classified in many equally proper ways.
+
+The three approaches to classification include classical categorization (classification by properties), conceptual clustering (classification by concepts), 
+and prototype theory (classification by association with a prototype).
+
+Scenarios are a powerful tool of object-oriented analysis and can be used in approaches such as classical analysis, behavior analysis, domain analysis, and use case analysis.
+
+Key abstractions reflect the vocabulary of the problem domain and may either be discovered from the problem domain or invented as part of the design.
+
+Mechanisms denote strategic design decisions regarding the collaborative activity of many different kinds of objects.

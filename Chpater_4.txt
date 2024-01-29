@@ -1,0 +1,26 @@
+Classification
+    4.1 The Importance of Proper Classification
+        The Difficulty of Classification
+        The Incremental and Iterative Nature of Classification
+    4.2 Identifying Classes and Objects
+        Classical and Modern Approaches
+            Classical Categorization
+            Conceptual Clustering
+            Prototype Theory
+            Applying Classical and Modern Theories
+        Object-Oriented Analysis
+            Classical Approaches
+            Behavior Analysis
+            Domain Analysis
+            Use Case Analysis
+            CRC Cards
+            Informal English Description
+            Structured Analysis
+    4.3 Key Abstractions and Mechanisms
+        Identifying Key Abstractions
+            Refining Key Abstractions
+            Naming Key Abstractions
+        Identifying Mechanisms
+            Mechanisms as Patterns
+            Examples of Mechanisms
+    Summary

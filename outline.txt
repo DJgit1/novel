@@ -79,3 +79,53 @@ Scenarios are a powerful tool of object-oriented analysis and can be used in app
 Key abstractions reflect the vocabulary of the problem domain and may either be discovered from the problem domain or invented as part of the design.
 
 Mechanisms denote strategic design decisions regarding the collaborative activity of many different kinds of objects.
+
+
+Chapter 5 - Notation
+Designing is not the act of drawing a diagram; a diagram simply captures a design.
+
+In the design of a complex system, it is important to view the design from multiple perspectives: namely, its conceptual, logical, and physical models
+and its structural and behavioral semantics.
+
+The UML includes thirteen diagrams: package diagram, component diagram, deployment diagram, use case diagram, activity diagram, class diagram,
+sequence diagram, interaction overview diagram, composite structure diagram,state machine diagram, timing diagram, object diagram, and communication
+diagram.
+
+A package diagram provides the means to organize the artifacts of the development process to clearly present the analysis of the problem space
+and the associated design. The specific reasons will be varied but will either focus on physically structuring the visual model itself or on clearly representing
+the model elements through multiple views.
+
+A component diagram shows the internal structure of components and their dependencies with other components. This diagram provides the representation
+of components, collaborating through well-defined interfaces, to provide system functionality.
+
+A deployment diagram shows the allocation of artifacts to nodes in the physical design of a system. A single deployment diagram represents a view into the artifact 
+structure of a system. During development, we use deployment diagrams to indicate the physical collection of nodes that serve as the platform for execution of our system.
+
+A use case diagram depicts the context of the system to be built and the functionality provided by that system. Use case diagrams depict who (or
+what) interacts with the system. They show what the outside world wants the system to do.
+
+An activity diagram provides the visual depiction of the flow of activities, whether in a system, business, workflow, or other process. These diagrams
+focus on the activities performed and who (or what) is responsible for the performance of those activities.
+
+A class diagram shows the existence of classes and their relationships in the logical design of a system. During analysis, class diagrams indicate the
+common roles and responsibilities of the entities that provide the system’s behavior. During design, class diagrams capture the structure of the classes 
+that form the system’s architecture.
+
+A sequence diagram traces the execution of a scenario in the same context as an object diagram. To a large degree, a sequence diagram is simply another way 
+to represent an object diagram.
+
+An interaction overview diagram is a combination of activity diagrams and interaction diagrams intended to provide an overview of the flow of control between 
+diagram elements. Though any type of interaction diagram may be used, the sequence diagram is most prevalent.
+
+A composite structure diagram provides a way to depict a structured classifier with the definition of its internal structure. This diagram is also useful during 
+design to decompose classes into their constituent parts and model their runtime collaborations.
+
+A state machine diagram is used to design and understand time-critical systems. A state machine diagram expresses behavior as a progression through
+a series of states, triggered by events, and the related actions that may occur. These are also known as behavioral state machines.
+
+A timing diagram is a type of interaction diagram. Its purpose is to show how the states of an element or elements change over time and how events  change those states.
+
+An object diagram shows the existence of objects and their relationships in the logical design of a system. A single object diagram represents a view of
+the object structure of a system and is typically used to represent a scenario.
+
+A communication diagram is a type of interaction diagram that focuses on how objects are linked and the messages they pass, as they participate in a specific interaction.

@@ -1,0 +1,135 @@
+======================
+Chapter 1 - Complexity  
+======================
+Software is inherently complex; the complexity of software systems often exceeds the human intellectual capacity.
+
+The task of the software development team is to engineer the illusion of simplicity.
+
+Complexity often takes the form of a hierarchy; it is useful to model both the “is a” and the “part of” hierarchies of a complex system.
+
+Complex systems generally evolve from stable intermediate forms.
+
+There are fundamental limiting factors of human cognition; we can address these constraints through the use of decomposition, abstraction, and hierarchy.
+
+Complex systems can be viewed by focusing on either things or processes; there are compelling reasons for applying object-oriented decomposition,
+in which we view the world as a meaningful collection of objects that collaborate to achieve some higher-level behavior.
+
+Object-oriented analysis and design is the method that leads us to an objectoriented decomposition; object-oriented design uses a notation and process for constructing 
+complex software systems and offers a rich set of models with which we may reason about different aspects of the system under consideration.
+
+======================
+Chapter 2 - The Object Model
+======================
+The maturation of software engineering has led to the development of object-oriented analysis, design, and programming methods, all of which address the issues 
+of programming-in-the-large.
+
+There are several different programming paradigms: procedure-oriented, object-oriented, logic-oriented, rule-oriented, and constraint-oriented.
+
+An abstraction denotes the essential characteristics of an object that distinguish it from all other kinds of objects and thus provide crisply defined conceptual
+boundaries, relative to the perspective of the viewer.
+
+Encapsulation is the process of compartmentalizing the elements of an abstraction that constitute its structure and behavior; encapsulation serves to
+separate the contractual interface of an abstraction and its implementation.
+
+Modularity is the property of a system that has been decomposed into a set of cohesive and loosely coupled modules.
+
+Hierarchy is a ranking or ordering of abstractions.
+
+Typing is the enforcement of the class of an object, such that objects of different types may not be interchanged or, at the most, may be interchanged only in very restricted 
+ways.
+
+Concurrency is the property that distinguishes an active object from one that is not active.
+
+Persistence is the property of an object through which its existence transcends time and/or space.
+
+======================
+Chapter 3 - Classes and Objects
+======================
+An object has state, behavior, and identity.
+
+The structure and behavior of similar objects are defined in their common class.
+
+The state of an object encompasses all of the (usually static) properties of the object plus the current (usually dynamic) values of each of these properties.
+
+Behavior is how an object acts and reacts in terms of its state changes and message passing.
+
+Identity is the property of an object that distinguishes it from all other objects.
+
+A class is a set of objects that share a common structure and a common behavior.
+
+The three kinds of relationships include association, inheritance, and aggregation.
+
+Key abstractions are the classes and objects that form the vocabulary of the problem domain.
+
+A mechanism is a structure whereby a set of objects work together to provide a behavior that satisfies some requirement of the problem.
+
+The quality of an abstraction may be measured by its coupling, cohesion, sufficiency, completeness, and primitiveness.
+
+======================
+Chapter 4 - Classification
+======================
+The identification of classes and objects is a fundamental issue in objectoriented analysis and design; identification involves both discovery and invention.
+
+Classification is fundamentally a problem of clustering.
+
+Classification is an incremental and iterative process, made difficult because a given set of objects may be classified in many equally proper ways.
+
+The three approaches to classification include classical categorization (classification by properties), conceptual clustering (classification by concepts), 
+and prototype theory (classification by association with a prototype).
+
+Scenarios are a powerful tool of object-oriented analysis and can be used in approaches such as classical analysis, behavior analysis, domain analysis, and use case analysis.
+
+Key abstractions reflect the vocabulary of the problem domain and may either be discovered from the problem domain or invented as part of the design.
+
+Mechanisms denote strategic design decisions regarding the collaborative activity of many different kinds of objects.
+
+======================
+Chapter 5 - Notation
+======================
+Designing is not the act of drawing a diagram; a diagram simply captures a design.
+
+In the design of a complex system, it is important to view the design from multiple perspectives: namely, its conceptual, logical, and physical models
+and its structural and behavioral semantics.
+
+The UML includes thirteen diagrams: package diagram, component diagram, deployment diagram, use case diagram, activity diagram, class diagram,
+sequence diagram, interaction overview diagram, composite structure diagram,state machine diagram, timing diagram, object diagram, and communication
+diagram.
+
+A package diagram provides the means to organize the artifacts of the development process to clearly present the analysis of the problem space
+and the associated design. The specific reasons will be varied but will either focus on physically structuring the visual model itself or on clearly representing
+the model elements through multiple views.
+
+A component diagram shows the internal structure of components and their dependencies with other components. This diagram provides the representation
+of components, collaborating through well-defined interfaces, to provide system functionality.
+
+A deployment diagram shows the allocation of artifacts to nodes in the physical design of a system. A single deployment diagram represents a view into the artifact 
+structure of a system. During development, we use deployment diagrams to indicate the physical collection of nodes that serve as the platform for execution of our system.
+
+A use case diagram depicts the context of the system to be built and the functionality provided by that system. Use case diagrams depict who (or
+what) interacts with the system. They show what the outside world wants the system to do.
+
+An activity diagram provides the visual depiction of the flow of activities, whether in a system, business, workflow, or other process. These diagrams
+focus on the activities performed and who (or what) is responsible for the performance of those activities.
+
+A class diagram shows the existence of classes and their relationships in the logical design of a system. During analysis, class diagrams indicate the
+common roles and responsibilities of the entities that provide the system’s behavior. During design, class diagrams capture the structure of the classes 
+that form the system’s architecture.
+
+A sequence diagram traces the execution of a scenario in the same context as an object diagram. To a large degree, a sequence diagram is simply another way 
+to represent an object diagram.
+
+An interaction overview diagram is a combination of activity diagrams and interaction diagrams intended to provide an overview of the flow of control between 
+diagram elements. Though any type of interaction diagram may be used, the sequence diagram is most prevalent.
+
+A composite structure diagram provides a way to depict a structured classifier with the definition of its internal structure. This diagram is also useful during 
+design to decompose classes into their constituent parts and model their runtime collaborations.
+
+A state machine diagram is used to design and understand time-critical systems. A state machine diagram expresses behavior as a progression through
+a series of states, triggered by events, and the related actions that may occur. These are also known as behavioral state machines.
+
+A timing diagram is a type of interaction diagram. Its purpose is to show how the states of an element or elements change over time and how events  change those states.
+
+An object diagram shows the existence of objects and their relationships in the logical design of a system. A single object diagram represents a view of
+the object structure of a system and is typically used to represent a scenario.
+
+A communication diagram is a type of interaction diagram that focuses on how objects are linked and the messages they pass, as they participate in a specific interaction.

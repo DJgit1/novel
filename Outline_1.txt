@@ -133,3 +133,41 @@ An object diagram shows the existence of objects and their relationships in the 
 the object structure of a system and is typically used to represent a scenario.
 
 A communication diagram is a type of interaction diagram that focuses on how objects are linked and the messages they pass, as they participate in a specific interaction.
+
+
+======================
+Chapter 6 - Notation
+======================
+Successful projects are usually characterized by the existence of a strong architectural vision and the application of a well-managed iterative and
+incremental development lifecycle.
+
+Architecture describes the significant decisions that have been made with regard to both structure and behavior and usually reflects an architectural
+style. A strong architectural vision enables the construction of systems that are simpler, are more robust and resilient, enable more effective reuse, and
+are easier to maintain.
+
+Iterative and incremental development occurs when the functionality of the system is delivered in a successive series of releases (either internal or
+external) of increasing completeness, with each release being an iteration. The selection of what functionality is developed in each iteration is driven
+by the mitigation of project risks; the most critical risks are addressed first. The iterative and incremental approach is at the heart of most modern software
+development methods, including agile methods, as it is a very effective technique for managing risk and change.
+
+All software development processes exist somewhere on a process continuum,
+with agile methods on one end and plan-driven techniques on the
+other. The choice of the right software development process for a particular
+project is driven by the project’s (and the organization’s) characteristics and
+involves configuring a development process that reflects a balance between
+agile and plan-driven processes that matches the project’s position on that
+continuum.
+
+In this chapter, the software development process framework is described from two perspectives—the overall software development lifecycle (the macro process) and the analysis and design process (the micro process). The
+choice of lifecycle style (e.g., waterfall, iterative, agile, plan-driven, and so on) affects the macro process, and the choice of analysis and design techniques
+(e.g., structured, object-oriented, and so on) affects the micro process. Whether you choose an agile or a plan-driven process as your macro
+process, the object-oriented analysis and design tips and techniques described in the micro process section can be applied equally well.
+
+The purpose of the micro process is to take the requirements provided by the macro process (and possibly the analysis and design specifications produced
+by previous iterations of the micro process) and produce analysis and design specifications that are fed back into the macro process. Ultimately,
+the micro process produces specifications for the implementation that are built, tested, and deployed in the macro process.
+
+The micro process is comprised of four key activities (identify elements, define element collaborations, define element relationships, and detail element
+semantics). Each iteration of the micro process involves iterating through these activities for a set of behavioral requirements at a specific
+level of abstraction. The basic steps and the resulting products are about the same for all levels of abstraction; what differs is the level of detail (lower
+levels of abstraction result in more detailed products).

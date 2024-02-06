@@ -1,0 +1,44 @@
+
+======================
+Process
+======================
+
+6.1 First Principles
+    Traits of Successful Projects
+        Strong Architectural Vision
+        Iterative and Incremental Lifecycle
+        Toward a Rational Development Process
+6.2 The Macro Process: The Software Development Lifecycle
+    Overview
+    The Macro Process Content Dimension— Disciplines
+    The Macro Process Time Dimension—Milestones and Phases
+        Inception
+        Elaboration
+        Construction
+        Transition
+    The Macro Process Time Dimension—Iterations
+    Release Planning
+6.3 The Micro Process: The Analysis and Design Process
+    Overview
+    Levels of Abstraction
+    Activities
+    Products
+    The Micro Process and Levels of Abstraction
+    Identifying Elements
+        Products
+        Steps
+        Milestones and Measures
+    Defining Element Collaborations
+        Products
+        Steps
+            Behavior Analysis
+            Pattern Scavenging
+        Milestones and Measures
+        Defining Element Relationships
+            Products
+            Steps
+            Milestones and Measures
+        Detailing Element Semantics
+            Products
+            Steps
+            Milestones and Measures
